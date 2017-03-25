@@ -23,11 +23,10 @@ Playing the Game:
 
 1). At this point you should see 3 colors:
 
-         a. Red represents the walls of the maze
-	 
-	 b. Green represents the current position of your character
-
-	 c. Orange represents the treasure
+    i.   Red
+    ii.  Green
+    iii. Orange
+     
 
 2). Navigate your character to the treasure to win the game2). Navigate your character to the treasure to win the game
 
