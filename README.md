@@ -1,5 +1,5 @@
 # Maze-MIPS-Assembly-Game
-implements a Maze Game on Mars with LED Display
+Implements a Maze Game on Mars with LED Display
 
 Instructions to run:
 
