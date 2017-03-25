@@ -25,7 +25,7 @@ Playing the Game:
 
     i.   Red: represents the walls of the maze
     ii.  Green: represents the character you control to navigate the maze
-    iii. Orange: represents the goal/treasure chest you must obtain. 
+    iii. Orange: represents the goal/treasure chest you must obtain
      
 2). Navigate your character to the treasure to win the game
 
